@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-label="ThoughtFold">
+  
+  <g transform="translate(0, 20) scale(0.3333)">
+    <path d="M72.255,295.312l0,-221.875l-70.692,0l0,-71.875l334.375,0l0,71.875l-137.5,0l0,43.75l90.625,0l-50.119,50.119l-40.506,0l0,56.131l-67.357,67.357l6.25,-214.232l62.198,-59.073l-169.84,0l0,27.823l65.625,0l0,221.875l-23.058,28.125Z" fill="#5F7060"></path>
+    <path d="M129.688,74.809l1.393,222.235l69.59,-71.198l0,-208.659l-70.983,57.622Z" fill="#4A4F5C"></path>
+  </g>
+  <text x="146" y="104" font-family="Inter, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, system-ui, sans-serif" font-weight="800" font-size="100" letter-spacing="-3.5">
+    <tspan fill="#5F7060">Thought</tspan><tspan fill="#F5F6F8">Fold</tspan>
+  </text>
+</svg>
