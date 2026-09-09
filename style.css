@@ -585,3 +585,38 @@ h1, h2, h3, h4, h5, h6 {
   .actions .nav-link { display: none; }
   .actions { gap: 12px; }
 }
+
+/* FAQ section */
+.faq-container {
+  max-width: 760px;
+}
+
+.faq-heading {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.faq-heading h2 {
+  font-size: 32px;
+  margin-top: 12px;
+}
+
+.faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  text-align: left;
+}
+
+.faq-item h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.faq-item p {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
