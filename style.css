@@ -569,6 +569,22 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
+/* Cross-site studio row — quiet, copyright-weight. Added 2026-09-10. */
+.footer-studio {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 16px;
+  margin-top: 24px;
+  color: rgba(255,255,255,0.3);
+}
+.footer-studio a {
+  color: rgba(255,255,255,0.5);
+}
+.footer-studio a:hover {
+  color: white;
+}
+
 @media (max-width: 900px) {
   .hero-inner {
     grid-template-columns: 1fr;
@@ -582,6 +598,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   .footer-inner { flex-direction: column; gap: 24px; text-align: center; }
+  .footer-studio { justify-content: center; }
   .actions .nav-link { display: none; }
   .actions { gap: 12px; }
 }
